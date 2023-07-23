@@ -1,9 +1,9 @@
 <h1 align="center">Yo, I'm Fl0w</h1>
 <h3 align="center">Software-Developer, Media-Designer, Artist and Modder. I do a lot of stuff.</h3>
 
+<h3 align="center">Socials:</h3>
 <p align="center">
 <a href="https://www.twitch.tv/tehfl0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="tehfl0w" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCFn-VRCREhLmhuwFm-wwRuA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tehfl0w" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages:</h3>
